@@ -1,0 +1,7 @@
+.expo
+.vscode
+.env
+node_modules
+assets.zip
+yarn-error.log
+package-lock.json
